@@ -9,22 +9,25 @@
 
 
 ## Introduction
-This document describes how I set up my personal Apple Mac OS X computers. [See here for a complete list of apps, scripts and modifications.](https://github.com/omcfarlane/Personal-OS-X-Setup/blob/master/README.md#apps)
+This document describes how I set up my personal Apple Mac OS X computers.
 
-I consider myself an Apple enthusiast and a budding power-user. That said, this setup is designed to maximize OS X’s strengths in it’s speed, security, extensibility through settings and third-party apps for the “average person”. In the end, OS X will manage my writing, photos, music; but I’ll also be able to more easily complete actions with greater ease. For example:
+I consider a novice power-user. With this setup completing repetitive, common or complex tasks will become noticeably easier, if not pleasant. For example:
  
-1. creating an appointment. 
-2. rating a song in iTunes from any app. 
-3. have a clear menu bar and desktop 
-4. Pull files out of subdirectories and into 1 (flatten a folder) 
-5. remember all your passwords.
+1. Creating an appointment;
+2. Rating a song in iTunes from any app;
+3. Have a clear menu bar and desktop;
+4. Pull files out of subdirectories and into 1 (flatten a folder);
+5. Remember all your passwords.
+
+While I maintain this guide for my own personal knowledge, I offer it to you in the hope that you may learn of new applications or scripts, or new ways of interacting with your computer that you may not have considered before. Or even knew were possible! 
 
 Please feel free to send me any feedback or questions you may have.
 
 Updated for **[OS X Yosemite 10.10.3](https://support.apple.com/en-us/HT204490)**.
 
+
 ## Precautionary Warning
-Remember that this is _my_ personal setup. I do my best to keep the language as general as possible, but I cannot be responsible for anything that happens as a result of this guide. Sorry.	
+Remember that this is _my_ personal setup. I do my best to keep the language as general as possible, but I cannot be responsible for anything that happens as a result. Sorry.	
 
 ## Detailed Setup
 ### Software update
@@ -33,15 +36,12 @@ Run Apple’s software update and make sure everything is up to date.
  → About This Mac → Software Update
 
 ### System Preferences
-?Can this be done through .dotfiles? 
+Can this be done through .dotfiles? 
 Defaults!
-1. 
-2. 
-3. 
+
 
 ### 1Password
-1Password is password management software. They really put it best: tktk. (1Password was the first time I truly fell in love with software. See my full ode here).
-
+1Password is password management software. They really put it best: tktk.
 
 
 ### Applescripts & Automator Scripts
