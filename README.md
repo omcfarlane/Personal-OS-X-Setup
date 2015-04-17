@@ -1,10 +1,10 @@
 # Mac OS X Setup
 
 ### Contents
-#### [Introduction](https://github.com/omcfarlane/Personal-OS-X-Setup/blob/master/README.md#introduction)
-#### [Precautionary Warning](https://github.com/omcfarlane/Personal-OS-X-Setup/blob/master/README.md#precautionary-warning)
-#### [Detailed Setup](https://github.com/omcfarlane/Personal-OS-X-Setup/blob/master/README.md#detailed-setup)
-#### [Installed List](https://github.com/omcfarlane/Personal-OS-X-Setup/blob/master/README.md#installed-list)
+#### [Introduction](https://github.com/omcfarlane/Personal-OS-X-Setup/blob/master/README.md#introduction-1)
+#### [Precautionary Warning](https://github.com/omcfarlane/Personal-OS-X-Setup/blob/master/README.md#precautionary-warning-1)
+#### [Detailed Setup](https://github.com/omcfarlane/Personal-OS-X-Setup/blob/master/README.md#detailed-setup-1)
+#### [Installed List](https://github.com/omcfarlane/Personal-OS-X-Setup/blob/master/README.md#installed-list-1)
 
 
 
